@@ -1,0 +1,1 @@
+web: gunicorn AmanProject.wsgi --log-file -
